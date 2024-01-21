@@ -1,0 +1,75 @@
+[33mcommit 66d0d605b3ab1e88e41879a759fea69d8431d946[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/add-cssstyle.css[m[33m, [m[1;32mfeature/add-css[m[33m)[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Fri Jan 19 20:11:49 2024 -0600
+
+    added CSS to project
+
+[33mcommit 99309263ed082ebdfa8c00d24b81a5ca8a8d68de[m
+Merge: a61005a cb343f0
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Tue Jan 16 20:29:55 2024 -0600
+
+    Merge branch 'main' of github.com:atomez36/prework--study-guide into feature/add-css
+
+[33mcommit a61005ae218be3e3490888582af58c3f9049780f[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Fri Jan 12 15:04:29 2024 -0600
+
+    added CSS to project
+
+[33mcommit cb343f04929babf36433da35d1a053c8524c3668[m
+Merge: 48d3a6e 4820363
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Thu Jan 11 20:24:25 2024 -0600
+
+    Merge pull request #10 from atomez36/feature/add-css
+    
+    added CSS to project
+
+[33mcommit 4820363bcc43b4e753e2617744faf0bd37e5447f[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Thu Jan 11 20:22:27 2024 -0600
+
+    added CSS to project
+
+[33mcommit f9a3819450688a1164e5c0fb148836f33a05b6b9[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Thu Jan 11 16:51:45 2024 -0600
+
+    added css stylesheet
+
+[33mcommit 48d3a6e4a64d843debcac07957825083b7bfec35[m
+Merge: d5a8b3c c2c6a91
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Mon Jan 8 20:38:47 2024 -0600
+
+    Merge pull request #9 from atomez36/feature/starter-code
+    
+    fixed bug in html main file header
+
+[33mcommit c2c6a91f93592f7161027d6f12933a6cd5cb91dd[m[33m ([m[1;31morigin/feature/starter-code[m[33m, [m[1;32mfeature/starter-code[m[33m)[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Mon Jan 8 20:33:51 2024 -0600
+
+    fixed bug in html main file header
+
+[33mcommit d5a8b3cca07b9d7ceeb02b878b8be93f0a68deef[m[33m ([m[1;31morigin/feature/add-html[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d03d7b1 10fc724
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Fri Jan 5 19:29:10 2024 -0600
+
+    Merge pull request #8 from atomez36/feature/starter-code
+    
+    add starter code for prework project
+
+[33mcommit 10fc724bdfce2637a478d3dcdeeca7892f1808a1[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Fri Jan 5 19:24:16 2024 -0600
+
+    fiexed bug in html main file header
+
+[33mcommit d03d7b18d1235184f7f080f1ee898efdc1949eeb[m[33m ([m[1;32mfature/starter-code[m[33m)[m
+Author: abel <115671826+atomez36@users.noreply.github.com>
+Date:   Thu Nov 9 22:30:31 2023 -0600
+
+    Initial commit
